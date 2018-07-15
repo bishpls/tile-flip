@@ -20,6 +20,6 @@ If all clearable tiles have been cleared, the game will progress to the next lev
 
 If all four levels are cleared, the game will reload the first level. 
 
-The target audience for this game is younger kids; I wanted to present a puzzle that progressed in difficulty, beginning simply and progressing to be more complicated. Ideally, this will introduce the concept of spatial mapping and evaluating how to fill space given restrictions (I.E. the blocking magenta squares).
+Children are the target audience for this game, ideally one at a time or in small groups; I wanted to present a puzzle that gradually increased in difficulty, beginning simply and progressing to be more complicated. Ideally, this will introduce the concept of spatial mapping and evaluating how to fill space given restrictions (I.E. the blocking magenta squares) while challenging them to plan how to evaluate a path through the available geometry. 
 
 ![equation](https://github.com/bishpls/tile-flip/blob/master/example.png)
