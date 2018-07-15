@@ -17,3 +17,5 @@ If all clearable tiles have been cleared, the game will progress to the next lev
 If all four levels are cleared, the game will reload the first level. 
 
 The target audience for this game is younger kids; I wanted to present a puzzle that progressed in difficulty, beginning simply and progressing to be more complicated. Ideally, this will introduce the concept of spatial mapping and evaluating how to fill space given restrictions (I.E. the blocking magenta squares).
+
+![equation](https://github.com/bishpls/tile-flip/blob/master/example.png)
