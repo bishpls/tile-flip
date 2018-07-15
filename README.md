@@ -1,5 +1,3 @@
-# tile-flip
-
 # Project Category 
 Math Square (https://github.com/momath/math-square)
 
